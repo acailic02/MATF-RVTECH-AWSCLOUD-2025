@@ -1,0 +1,1 @@
+#Strucni kurs RivianAWS
